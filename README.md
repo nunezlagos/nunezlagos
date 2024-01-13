@@ -17,6 +17,5 @@ Soy un apasionado desarrollador en constante progreso apasionado por la tegnolog
 
 ## Contacto
 
-- 📧 Puedes contactarme a través de [mi correo electrónico](mauricio@nunezlagos.cl).
-
+- 📧 Puedes contactarme a través de [Asistente.nunez@gmail.com]
 
