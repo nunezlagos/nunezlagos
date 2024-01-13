@@ -1,17 +1,22 @@
 <img src="https://i.imgur.com/Oq7YlHB.png">
+<H1>¡Hola, soy Maury!</H1>
+
+¡Bienvenido a mi perfil!
+
+Soy un apasionado desarrollador en constante progreso apasionado por la tegnologia front-end y back-end. Aquí hay un vistazo a mis habilidades:
+
+## Tecnologías en estudio!
+
+- 💻 **HTML & CSS:** Creación de interfaces web atractivas y responsivas.
+- 📱 **Ionic & Angular:** Desarrollo de aplicaciones móviles y web utilizando el poder de Angular y la flexibilidad de Ionic.
+- 🐍 **Python & Django:** Construcción de aplicaciones web .
+- 🗃️ **SQL:** Manejo de bases de datos relacionales para almacenar y recuperar datos eficientemente PL/SQL.
+- 👨‍💻 **C#:** Estudiando utilizando el lenguaje de programación C#.
+- 🐧 **Linux:** Aprendiendo manejo de sistemas operativos basados en Linux.
 
 
-<!--
-**nunezlagos/nunezlagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contacto
 
-Here are some ideas to get you started:
+- 📧 Puedes contactarme a través de [mi correo electrónico](mauricio@nunezlagos.cl).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
