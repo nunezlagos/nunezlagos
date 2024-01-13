@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/Oq7YlHB.png">
-<H1>¡Hola, soy Maury!</H1>
+<H1>¡Hola, soy Mauri!</H1>
 
 ¡Bienvenido a mi perfil!
 
