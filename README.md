@@ -1,21 +1,20 @@
 <img src="https://i.imgur.com/Oq7YlHB.png">
-<H1>¡Hola, soy Mauri!</H1>
+<h1>Hello, I'm Mauri!</h1>
 
-¡Bienvenido a mi perfil!
+Welcome to my profile!
 
-Soy un apasionado desarrollador en constante progreso apasionado por la tegnologia front-end y back-end. Aquí hay un vistazo a mis habilidades:
+I am a passionate developer in constant progress, focused on both front-end and back-end technology. Here's a glimpse of my skills:
 
-## Tecnologías en estudio!
+## Technologies in Study!
 
-- 💻 **HTML & CSS:** Creación de interfaces web atractivas y responsivas.
-- 📱 **Ionic & Angular:** Desarrollo de aplicaciones móviles y web utilizando el poder de Angular y la flexibilidad de Ionic.
-- 🐍 **Python & Django:** Construcción de aplicaciones web .
-- 🗃️ **SQL:** Manejo de bases de datos relacionales para almacenar y recuperar datos eficientemente PL/SQL.
-- 👨‍💻 **C#:** Estudiando utilizando el lenguaje de programación C#.
-- 🐧 **Linux:** Aprendiendo manejo de sistemas operativos basados en Linux.
+- 💻 **HTML & CSS:** Creating attractive and responsive web interfaces.
+- 📱 **PHP & Laravel:** Developing web applications using the power of PHP and the flexibility of Laravel.
+- 🐍 **Python & Django:** Building web applications.
+- 🗃️ **SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL.
+- 👨‍💻 **C#:** Studying using the C# programming language.
+- 🐧 **Linux:** Learning to manage Linux-based operating systems.
 
+## Contact
 
-## Contacto
-
-- 📧 Puedes contactarme a través de [Asistente.nunez@gmail.com]
+- 📧 You can reach me at [Asistente.nunez@gmail.com]
 
