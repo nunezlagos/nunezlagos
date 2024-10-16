@@ -1,6 +1,4 @@
-<img src="https://i.imgur.com/Oq7YlHB.png">
-
-<h5 style="font-family: Arial, sans-serif; color: #333;">Welcome to my profile!</h5>
+<h4 style="font-family: Arial, sans-serif; color: #333;">Welcome to my profile!</h4>
 
 <p style="font-family: Arial, sans-serif; color: #555;">
     I'm a passionate developer dedicated to continuous growth, specializing in both front-end and back-end technologies. Here’s a glimpse of my skills:
