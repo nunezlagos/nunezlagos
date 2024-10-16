@@ -7,7 +7,6 @@ I am a passionate developer in constant progress, focused on both front-end and 
 ## Technologies in Study!
 
 - 📱 **PHP:** Focusing on solutions to fix problems in software using PHP, with frameworks like Laravel and CodeIgniter.
-- 🐍 **Python:** Building web applications.
 - 🗃️ **SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL, using phpMyAdmin with MySQL.
 - 🐧 **Linux:** Learning to manage Linux-based operating systems and create workspaces for developers.
 
