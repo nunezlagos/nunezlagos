@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/Oq7YlHB.png">
-<h1>Hello, I'm Mauri!</h1>
 
 Welcome to my profile!
 
@@ -7,14 +6,12 @@ I am a passionate developer in constant progress, focused on both front-end and 
 
 ## Technologies in Study!
 
-- 💻 **HTML & CSS:** Creating attractive and responsive web interfaces.
-- 📱 **PHP & Laravel:** Developing web applications using the power of PHP and the flexibility of Laravel.
-- 🐍 **Python & Django:** Building web applications.
-- 🗃️ **SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL.
-- 👨‍💻 **C#:** Studying using the C# programming language.
-- 🐧 **Linux:** Learning to manage Linux-based operating systems.
+- 📱 **PHP:** Focusing on solutions to fix problems in software using PHP, with frameworks like Laravel and CodeIgniter.
+- 🐍 **Python:** Building web applications.
+- 🗃️ **SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL, using phpMyAdmin with MySQL.
+- 🐧 **Linux:** Learning to manage Linux-based operating systems and create workspaces for developers.
 
 ## Contact
 
-- 📧 You can reach me at [Asistente.nunez@gmail.com]
+- 📧 You can reach me at [asistente.nunez@gmail.com]
 
