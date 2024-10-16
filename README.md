@@ -6,9 +6,9 @@
 
 #### Technologies I'm Exploring
 
-- **📱 PHP:** Specializing in solutions to fix software issues using PHP, with frameworks like Laravel and CodeIgniter.
-- **🗃️ SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL, using phpMyAdmin with MySQL.
-- **🐧 Linux:** Learning to manage Linux-based operating systems and creating effective workspaces for developers.
+- **PHP:** Specializing in solutions to fix software issues using PHP, with frameworks like Laravel and CodeIgniter.
+- **SQL:** Managing relational databases for efficient data storage and retrieval, including PL/SQL, using phpMyAdmin with MySQL.
+- **Linux:** Learning to manage Linux-based operating systems and creating effective workspaces for developers.
 
 #### Contact
 
