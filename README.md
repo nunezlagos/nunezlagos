@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Oq7YlHB.png" alt="Profile Image" style="width: 200px; border-radius: 10px;">
+<img src="https://i.imgur.com/Oq7YlHB.png">
 
 <h1 style="font-family: Arial, sans-serif; color: #333;">Welcome to My Profile!</h1>
 
